@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oneAreebAmir
 - 👀 I’m interested in IT and engineering
-- 🌱 I’m currently learning Compputer Science
+- 🌱 I’m currently learning Copputer Science
 - 📫 Reach me by following me on social media. 
 
 <!---
